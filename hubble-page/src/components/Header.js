@@ -5,7 +5,10 @@ export default function Header() {
   return (
     <StyledHeader>
       <Container>
-      <h1>Hubble</h1>
+      <Nav>
+        <Logo src='./images/logo.svg' alt=''/>
+        <Button>Try it Free</Button>
+      </Nav>
       </Container>
     </StyledHeader>
   )
