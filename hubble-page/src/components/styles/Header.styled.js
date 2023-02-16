@@ -11,10 +11,7 @@ export const Nav = styled.nav`
     justify-content: space-between; 
     margin-bottom: 40px;
 
-    &:hover {
-        opacity: 0.9; 
-        transform: scale(0.98); 
-    }
+    
 `
 
 export const Logo = styled.img``
